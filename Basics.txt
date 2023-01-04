@@ -1,0 +1,112 @@
+1)Arithmetic operators
+ Arithmetic operators are mathematical operators such as addition,substraction,multiplication,division,modulus,increment and decrement
+
++ Used to add values   
+Eg c=a+b
+_ Used to substact one value from other
+Eg c=a-b
+* Multiplies the values
+Eg c=a*b
+/ Performs division
+Eg c=a/b
+++ Increases the value of a variable by 1
+c=++c
+-- Decreases the value of a variable by 1
+c=--c
+% Returns the division remainder
+a%b
+
+2)Logical operators
+Logical operators are used to find the logic between variables
+
+AND
+&& Returns true if both statements are true
+Eg a<5 && a<10
+
+OR
+|| Returns true if any one of the statement is true
+Eg a<5 || a<4
+
+NOT
+! Returns true if statement is false
+Eg !(a<3&&a<4)
+
+3)Relational operators
+Check the relationship between 2 operants
+< checks whether the operant is less than the other(a<b)
+> checks whether the operant is greater than the other (a>b)
+<= less than or equal to the operant(a<=b)
+>= greater than or equal  the operant (a>=b)
+== Used to compare both operants and returns 1 if both statements are equal,0 if not equal
+!= returns 1 if both statements are not equal and 0 if they are equal
+
+4)Bitwise operators
+Used to perform operators on the data at bit level 
+
+ Bitwise AND
+a=5,b=6
+a=0100    b=0110
+result 0100
+
+Bitwise OR
+result 0110
+
+Bitwise complement operator
+a=8
+1000
+result 0111
+
+
+5)Conditional operators
+ Are decision making statements which depends upon the output of the expression
+  
+expression1?expression2:expression3;
+
+6)Assignment operator
+a=5
+ assign 5 to the variable a
+ 
+plus and assign operator
+ a+=b or a=a+b
+
+substract and assign operator
+ a-=b or a=a-b
+multiple and assign operator
+ a*=b   a=a*b
+divide and assign operator
+ a/=b   a=a/b
+modulus and assign operator
+ a%=b a=a%b
+
+7)Shift operator
+ Is used to shift binary bits either in the left direction or in the right direction
+ 
+Left shift operator
+ var_name << no_of_position  
+
+
+Right operator
+var_name >> no_of_position 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+  
